@@ -1,0 +1,4 @@
+fastapi-pagination
+pydantic
+sqlalchemy
+pytest~=7.3.1
